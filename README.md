@@ -1,4 +1,4 @@
-### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/Nebulino/Nebulino/blob/master/Assets/Hi.gif" width="29px">, I am  I'm [Nebulino!](https://nebulino.cloud/blog) 
+### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/Nebulino/Nebulino/blob/master/Assets/Hi.gif" width="29px">, I am [Nebulino!](https://nebulino.cloud/blog) 
 
 <br/>
 
