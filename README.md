@@ -110,8 +110,7 @@ few home-lab automations — some of it private, some still cooking.
 ## 🌙 Beyond the keyboard
 
 Anime, gadgets and all the kawaii stuff ( ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ · aquascaping a 55L freshwater tank ·
-photo & video editing · a properly made gin tonic. Still a developer, and yes — still a future
-VTuber 🚀
+photo & video editing · a properly made gin tonic. Still a developer — and an actual VTuber 🚀
 
 <div align="center">
 
