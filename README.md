@@ -69,8 +69,8 @@ My personal cloud, built around a small zero-trust perimeter:
 - **[portal.nebulino.cloud](https://portal.nebulino.cloud)** — the same app with a gated control room:
   live reachability of my nodes, Home Assistant dashboards, Docker stacks and Uptime Kuma monitoring.
   Every admin surface sits behind **Cloudflare Access** (or the tailnet), never on the open internet.
-- **Dual autonomous agents** — **Hermes** on the Mac and **OpenClaw** running 24/7 on the NAS:
-  tool routing, proactive task execution, Telegram & Discord bots.
+- **Autonomous agents** — an always-on AI layer that handles tool routing, proactive task execution
+  and the chat bots, wired into the same zero-trust perimeter.
 
 ---
 
